@@ -10,11 +10,17 @@ Information about this project.
 
 We want this so we can allow the user to add pictures from his computer to the site:
 
+
+NPM: React Images Uploader
+https://www.npmjs.com/package/react-images-uploader
+https://github.com/aleksei0807/react-images-uploader
+
+
 NPM: react-upload-file 
 https://www.npmjs.com/package/react-upload-file
 
 
-NPM: react-upload-images
+NPM: react-upload-images                                <--- Testing.
 https://www.npmjs.com/package/react-upload-images
 
 
